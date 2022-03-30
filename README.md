@@ -1,4 +1,4 @@
-# Hey, i HellenWeb | Full-Stack PHP Developer
+# HellenWeb | Full-Stack PHP Developer
 I am a student interested in web development and pentest.
 
 <p>
@@ -7,7 +7,7 @@ I am a student interested in web development and pentest.
 </p>
 
 ## About Me
-Hi my name is Hellen, I am a student of the internetworking and pentest. Going to his goal of getting into Silicon Valley and making the world a better place
+Hi my name is Hellen, I am a student of the programming and pentest. Going to his goal of getting into Silicon Valley and making the world a better place
 ## My Skills
 I know language
 - JavaScript
