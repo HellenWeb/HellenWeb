@@ -1,10 +1,12 @@
 # HellenWeb | Full-Stack PHP Developer
-I am a student interested in web development and pentest.
+I am a student interested in web development, pentest and crypto.
 
 <p>
     <a href="https://t.me/YungHellen"><img src="https://img.shields.io/badge/Telegram-YungHellen-blue?style=for-the-badge&logo=appveyor"></a>
     <a href="https://github.com/HellenWeb"><img src="https://img.shields.io/badge/Github-HellenWeb-red?style=for-the-badge&logo=appveyor"></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 Hi my name is Hellen, I am a student of the programming and pentest. Going to his goal of getting into Silicon Valley and making the world a better place
