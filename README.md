@@ -26,8 +26,8 @@ I also know the frameworks Laravel, React, Vue, Aiogram, Symfony, Tailwind, Boot
 ## Pentest
 I'm good at Linux, especially the Debian distribution (Kali). I have worked with nmap, wireshark, wifite2, metasploit, proxychains and many others.
 ## Donate
-**Bitcoin**: bc1q4np4wu5q93vpqsq4mlgcjmrse72frmpytwduwk
-**Ethereum**: 0xE11F55CeB574d3Aca770649F4CaAbe2B4c34aCCa
-**Litecoin**: LXA2pNaqmUDc1K8zH1emaZhqh4Q12CQFkw
-**Dash**: Xw9RtS8cGguxtXTLdA8psLf9xgTDVuMtc1
-**Solana**: 612nPPw4HgkjPfMWWtPUPZ2r4K4Fgb8i1B1tpae96xJY
+- **Bitcoin**: bc1q4np4wu5q93vpqsq4mlgcjmrse72frmpytwduwk
+- **Ethereum**: 0xE11F55CeB574d3Aca770649F4CaAbe2B4c34aCCa
+- **Litecoin**: LXA2pNaqmUDc1K8zH1emaZhqh4Q12CQFkw
+- **Dash**: Xw9RtS8cGguxtXTLdA8psLf9xgTDVuMtc1
+- **Solana**: 612nPPw4HgkjPfMWWtPUPZ2r4K4Fgb8i1B1tpae96xJY
