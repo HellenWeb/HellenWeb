@@ -1,4 +1,4 @@
-# HellenWeb | Back-End Developer
+# HellenWeb | White Hat (Ethical Security Hacker)
 I am a student interested in web development, pentest and crypto.
 
 <p>
@@ -14,17 +14,13 @@ I am a student interested in web development, pentest and crypto.
 ## About Me
 Hi my name is Hellen, I am a student of the programming and pentest. Going to his goal of getting into Silicon Valley and making the world a better place
 ## My Skills
-I know languages
+I know languages:
 - JavaScript
 - Python
 - PHP
 - Java
+- C++
 -------
-```
-I also know the frameworks Laravel, React, Vue, Aiogram, Symfony, Tailwind, Bootstrap, Spring. I understand object oriented programming and algorithms. 
-```
-## Pentest
-I'm good at Linux and Networks. I have worked with nmap, wireshark, wifite2, metasploit, proxychains and many others utils for pentest. Made scripts for administration and penetration testing
 ## Donate
 - **Bitcoin**: bc1q4np4wu5q93vpqsq4mlgcjmrse72frmpytwduwk
 - **Ethereum**: 0xE11F55CeB574d3Aca770649F4CaAbe2B4c34aCCa
